@@ -1,6 +1,6 @@
-﻿# 零基础学算法
+﻿# [零起点学算法系列](https://github.com/xlm7/ACM/tree/master/begin)
 
-###[Fibonacci](https://github.com/xlm7/ACM/tree/master/begin)<br><br>
+###Fibonacci<br><br>
 Fibonacci数列定义为（1,1,2,3,5,8,.....），即每个元素是前两个元素的和。如果一个Fibonacci数与所有小于它的Fibonacci数互质，那么称之为Fibonacci质数。 
 现在要求你输出前n个Fibonacci数 
 The Fibonacci Numbers {0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 ...} are defined by the recurrence: <br>
