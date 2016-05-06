@@ -4,5 +4,6 @@
 很多算法，数据结构很有意思，光说不练体会不深刻，于是在校OJ平台申请了账号，从0开始刷题。
 顺便记录下来吧。
 
-###[零起点学算法系列](https://github.com/xlm7/ACM/tree/master/begin/Fibonacc)<br><br>
+###[零起点学算法系列](https://github.com/xlm7/ACM/tree/master/begin)<br><br>
+####1. [Fibonacci](https://github.com/xlm7/ACM/tree/master/begin)<br><br>
 ###[ACM进阶](https://github.com/xlm7/ACM/tree/master/advance)<br><br>
