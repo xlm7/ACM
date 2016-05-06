@@ -5,5 +5,6 @@
 顺便记录下来吧。
 
 ###[零起点学算法系列](https://github.com/xlm7/ACM/tree/master/begin)<br><br>
-####1. [Fibonacci](https://github.com/xlm7/ACM/tree/master/begin)<br><br>
+####1. [Fibonacci](https://github.com/xlm7/ACM/tree/master/begin/Fibonacci)<br><br>
+####2. [TurnOnLight](https://github.com/xlm7/ACM/tree/master/begin/TurnOnLight)<br><br>
 ###[ACM进阶](https://github.com/xlm7/ACM/tree/master/advance)<br><br>
