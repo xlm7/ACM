@@ -1,10 +1,11 @@
 #ACM<br><br>
-##ÎÒµÄACMÖ®ÂÃ<br><br>
-´óÈıÏÂÉÏÁËÒ»´ó°ëµÄ¿ÎµÄÊ±ºò£¬´òËãÕÒ¸öÊîÆÚÊµÏ°£¬È»ºóÏëÈ¥¼ñÆğÊı¾İ½á¹¹ºÍËã·¨£¬ÕÒÁËÊéÀ´¿´£¬²Å¾õµÃµ±³õÌı¿ÎµÄÊ±ºòÈ·Êµ´í¹ıÁËºÜ¶à¾«²ÊµÄ¶«Î÷£¬
-ºÜ¶àËã·¨£¬Êı¾İ½á¹¹ºÜÓĞÒâË¼£¬¹âËµ²»Á·Ìå»á²»Éî¿Ì£¬ÓÚÊÇÔÚĞ£OJÆ½Ì¨ÉêÇëÁËÕËºÅ£¬´Ó0¿ªÊ¼Ë¢Ìâ¡£
-Ë³±ã¼ÇÂ¼ÏÂÀ´°É¡£
+##æˆ‘çš„ACMä¹‹æ—…<br><br>
+å¤§ä¸‰ä¸‹ä¸Šäº†ä¸€å¤§åŠçš„è¯¾çš„æ—¶å€™ï¼Œæ‰“ç®—æ‰¾ä¸ªæš‘æœŸå®ä¹ ï¼Œç„¶åæƒ³å»æ¡èµ·æ•°æ®ç»“æ„å’Œç®—æ³•ï¼Œæ‰¾äº†ä¹¦æ¥çœ‹ï¼Œæ‰è§‰å¾—å½“åˆå¬è¯¾çš„æ—¶å€™ç¡®å®é”™è¿‡äº†å¾ˆå¤šç²¾å½©çš„ä¸œè¥¿ï¼Œ
+å¾ˆå¤šç®—æ³•ï¼Œæ•°æ®ç»“æ„å¾ˆæœ‰æ„æ€ï¼Œå…‰è¯´ä¸ç»ƒä½“ä¼šä¸æ·±åˆ»ï¼Œäºæ˜¯åœ¨æ ¡OJå¹³å°ç”³è¯·äº†è´¦å·ï¼Œä»0å¼€å§‹åˆ·é¢˜ã€‚
+é¡ºä¾¿è®°å½•ä¸‹æ¥å§ã€‚
 
-###[ÁãÆğµãÑ§Ëã·¨ÏµÁĞ](https://github.com/xlm7/ACM/tree/master/begin)<br><br>
-####1. [Fibonacci](https://github.com/xlm7/ACM/tree/master/begin/Fibonacci)<br><br>
-####2. [TurnOnLight](https://github.com/xlm7/ACM/tree/master/begin/TurnOnLight)<br><br>
-###[ACM½ø½×](https://github.com/xlm7/ACM/tree/master/advance)<br><br>
+###[é›¶èµ·ç‚¹å­¦ç®—æ³•ç³»åˆ—](https://github.com/xlm7/ACM/tree/master/begin)<br><br>
+####1. [Fibonacci](https://github.com/xlm7/ACM/tree/master/begin/Fibonacci)<br>
+####2. [TurnOnLight](https://github.com/xlm7/ACM/tree/master/begin/TurnOnLight)<br>
+####3. [BomMatrix](https://github.com/xlm7/ACM/tree/master/begin/BomMatrix)<br><br>
+###[ACMè¿›é˜¶](https://github.com/xlm7/ACM/tree/master/advance)<br><br>
