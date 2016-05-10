@@ -1,4 +1,4 @@
-﻿# [零起点学算法系列](https://github.com/xlm7/ACM/tree/master/begin)
+# [零起点学算法系列](https://github.com/xlm7/ACM/tree/master/begin)
 
 ###TurnOnLight<br><br>
 Description<br>
@@ -11,8 +11,12 @@ Input<br>
 多组数据测试。﻿<br>
 输入只有1行，这行有一个正整数，表示这个机房共有多少个电脑，该数是5到100之间的任意正整数。<br><br>
 Output<br>
-你必须输出最后开着的电脑数。输出该数后不要忘了换行<br>
-Sample Input <br>
-5<br>
-Sample Output<br>
-2
+你必须输出最后开着的电脑数。输出该数后不要忘了换行<br>		
+		
+Sample Input
+
+	　5
+Sample Output
+
+	　2
+		
