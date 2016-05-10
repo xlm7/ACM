@@ -5,8 +5,9 @@
 顺便记录下来吧。
 
 ###[零起点学算法系列](https://github.com/xlm7/ACM/tree/master/begin)<br><br>
-####1. [Fibonacci](https://github.com/xlm7/ACM/tree/master/begin/Fibonacci)<br>
-####2. [TurnOnLight](https://github.com/xlm7/ACM/tree/master/begin/TurnOnLight)<br>
-####3. [BomMatrix](https://github.com/xlm7/ACM/tree/master/begin/BomMatrix)<br>
-####3. [LeapYearJudgment](https://github.com/xlm7/ACM/tree/master/begin/LeapYearJudgment)<br><br>
+####1. [LeapYearJudgment](https://github.com/xlm7/ACM/tree/master/begin/LeapYearJudgment)<br>
+####2. [Fibonacci](https://github.com/xlm7/ACM/tree/master/begin/Fibonacci)<br>
+####3. [TurnOnLight](https://github.com/xlm7/ACM/tree/master/begin/TurnOnLight)<br>
+####4. [BomMatrix](https://github.com/xlm7/ACM/tree/master/begin/BomMatrix)<br>
+####5. [ScrewMatrix](https://github.com/xlm7/ACM/tree/master/begin/ScrewMatrix)<br><br>
 ###[ACM进阶](https://github.com/xlm7/ACM/tree/master/advance)<br><br>
