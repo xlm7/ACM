@@ -9,5 +9,6 @@
 ####2. [Fibonacci](https://github.com/xlm7/ACM/tree/master/begin/Fibonacci)<br>
 ####3. [TurnOnLight](https://github.com/xlm7/ACM/tree/master/begin/TurnOnLight)<br>
 ####4. [BomMatrix](https://github.com/xlm7/ACM/tree/master/begin/BomMatrix)<br>
-####5. [ScrewMatrix](https://github.com/xlm7/ACM/tree/master/begin/ScrewMatrix)<br><br>
+####5. [ScrewMatrix](https://github.com/xlm7/ACM/tree/master/begin/ScrewMatrix)<br>
+####6. [DecimalConversion](https://github.com/xlm7/ACM/tree/master/begin/ScrewMatrix)<br><br>
 ###[ACM进阶](https://github.com/xlm7/ACM/tree/master/advance)<br><br>
