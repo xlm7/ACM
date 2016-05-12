@@ -26,8 +26,8 @@ public class Main {
 					
 				}
 				if(flag==-1)
-					{System.out.print("-");
-					
+					{ch[0]++;
+					ch[ch[0]]='-';
 					}
 				for(q=ch[0];q>=1;q--){
 					
