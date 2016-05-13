@@ -11,5 +11,6 @@
 ####4. [BomMatrix](https://github.com/xlm7/ACM/tree/master/begin/BomMatrix)<br>
 ####5. [ScrewMatrix](https://github.com/xlm7/ACM/tree/master/begin/ScrewMatrix)<br>
 ####6. [DecimalConversion](https://github.com/xlm7/ACM/tree/master/begin/DecimalConversion)<br>
-####7. [CountLetters](https://github.com/xlm7/ACM/tree/master/begin/CountLetters)<br><br>
+####7. [CountLetters](https://github.com/xlm7/ACM/tree/master/begin/CountLetters)<br>
+####8. [Palindromes](https://github.com/xlm7/ACM/tree/master/begin/Palindromes)<br><br>
 ###[ACM进阶](https://github.com/xlm7/ACM/tree/master/advance)<br><br>
