@@ -1,4 +1,4 @@
-#ACM<br><br>
+﻿#ACM<br><br>
 ##我的ACM之旅<br><br>
 大三下上了一大半的课的时候，打算找个暑期实习，然后想去捡起数据结构和算法，找了书来看，才觉得当初听课的时候确实错过了很多精彩的东西，
 很多算法，数据结构很有意思，光说不练体会不深刻，于是在校OJ平台申请了账号，从0开始刷题。
@@ -13,5 +13,5 @@
 ####6. [DecimalConversion](https://github.com/xlm7/ACM/tree/master/begin/DecimalConversion)<br>
 ####7. [CountLetters](https://github.com/xlm7/ACM/tree/master/begin/CountLetters)<br>
 ####8. [Palindromes](https://github.com/xlm7/ACM/tree/master/begin/Palindromes)<br>
-####8. [PeriodString](https://github.com/xlm7/ACM/tree/master/begin/PeriodString)<br><br>
+####9. [PeriodString](https://github.com/xlm7/ACM/tree/master/begin/PeriodString)<br><br>
 ###[ACM进阶](https://github.com/xlm7/ACM/tree/master/advance)<br><br>
