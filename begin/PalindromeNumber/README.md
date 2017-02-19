@@ -1,5 +1,5 @@
 # [零起点学算法系列](https://github.com/xlm7/ACM/tree/master/begin)
-###9. Palindrome Number<br><br>
+###12. Palindrome Number<br><br>
 Some hints:
 Could negative integers be palindromes? (ie, -1)
 
