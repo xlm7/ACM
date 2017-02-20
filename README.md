@@ -15,6 +15,7 @@
 ####8. [Palindromes](https://github.com/xlm7/ACM/tree/master/begin/Palindromes)<br>
 ####9. [PeriodString](https://github.com/xlm7/ACM/tree/master/begin/PeriodString)<br>
 ####10. [SuperStairs](https://github.com/xlm7/ACM/tree/master/begin/SuperStairs)<br>
-####11. [CountOff](https://github.com/xlm7/ACM/tree/master/begin/CountOff)<br><br>
-####12. [PalindromeNumber](https://github.com/xlm7/ACM/tree/master/begin/PalindromeNumber)<br><br>
+####11. [CountOff](https://github.com/xlm7/ACM/tree/master/begin/CountOff)<br>
+####12. [PalindromeNumber](https://github.com/xlm7/ACM/tree/master/begin/PalindromeNumber)<br>
+####13. [LongestPalindromicSubstring](https://github.com/xlm7/ACM/tree/master/begin/LongestPalindromicSubstring)<br><br>
 ###[ACM进阶](https://github.com/xlm7/ACM/tree/master/advance)<br><br>
