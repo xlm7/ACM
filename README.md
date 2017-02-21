@@ -17,5 +17,6 @@
 ####10. [SuperStairs](https://github.com/xlm7/ACM/tree/master/begin/SuperStairs)<br>
 ####11. [CountOff](https://github.com/xlm7/ACM/tree/master/begin/CountOff)<br>
 ####12. [PalindromeNumber](https://github.com/xlm7/ACM/tree/master/begin/PalindromeNumber)<br>
-####13. [LongestPalindromicSubstring](https://github.com/xlm7/ACM/tree/master/begin/LongestPalindromicSubstring)<br><br>
+####13. [LongestPalindromicSubstring](https://github.com/xlm7/ACM/tree/master/begin/LongestPalindromicSubstring)<br>
+####14. [ZigZagConversion](https://github.com/xlm7/ACM/tree/master/begin/ZigZagConversion)<br><br>
 ###[ACM进阶](https://github.com/xlm7/ACM/tree/master/advance)<br><br>
